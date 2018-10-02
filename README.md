@@ -5,12 +5,12 @@ Sample source code for Node.js
 1) number : number.js
 2) string : string.js
 3) variable : variable.js
-4) template literal : template.js
-5) boolean : boolean.js
+4) boolean : boolean.js
 
 # Syntax
-1) comparisonoperator : comparison.js
-2) conditional : conditional.js
+1) template literal : template.js
+2) comparisonoperator : comparison.js
+3) conditional : conditional.js
 
 # Main.js
 1) web1_html_internet/main1.js : Sample make web(3000)
