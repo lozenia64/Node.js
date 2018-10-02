@@ -7,6 +7,7 @@ Sample source code for Node.js
 3) variable : variable.js
 4) template literal : template.js
 5) boolean : boolean.js
+6) comparisonoperator : comparison.js
 
 # Main.js
 1) web1_html_internet/main1.js : Sample make web(3000)
