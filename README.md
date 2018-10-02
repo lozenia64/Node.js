@@ -2,15 +2,15 @@
 Sample source code for Node.js
 
 # Data type
-1) number : number.js
-2) string : string.js
-3) variable : variable.js
-4) boolean : boolean.js
+1) syntax/number.js : number
+2) syntax/string.js : string
+3) syntax/variable.js : variable
+4) syntax/boolean.js : boolean
 
 # Syntax
-1) template literal : template.js
-2) comparisonoperator : comparison.js
-3) conditional : conditional.js
+1) syntax/template.js : template literal
+2) syntax/comparison.js : comparisonoperator
+3) syntax/conditional.js : conditional
 
 # Main.js
 1) web1_html_internet/main1.js : Sample make web(3000)
