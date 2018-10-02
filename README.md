@@ -11,6 +11,8 @@ Sample source code for Node.js
 1) syntax/template.js : template literal
 2) syntax/comparison.js : comparisonoperator
 3) syntax/conditional.js : conditional/args
+4) syntax/loop.js : loop
+5) syntax/array.js : array
 
 # Main.js
 1) web1_html_internet/main1.js : Sample make web(3000)
