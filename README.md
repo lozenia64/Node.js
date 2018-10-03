@@ -13,6 +13,7 @@ Sample source code for Node.js
 3) syntax/conditional.js : conditional/args
 4) syntax/loop.js : loop
 5) syntax/array.js : array
+6) syntax/function.js : function
 
 # Node.js
 1) web1_html_internet/main1.js : <Sample> 포트개방
