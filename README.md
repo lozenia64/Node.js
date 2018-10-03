@@ -15,10 +15,11 @@ Sample source code for Node.js
 5) syntax/array.js : array
 
 # Node.js
-1) web1_html_internet/main1.js : Sample make web(3000)
-2) web1_html_internet/main2.js : Sample URL querystring1
-3) web1_html_internet/main3.js : Sample URL querystring2
-4) web1_html_internet/main4.js : 404 Not found
-5) web1_html_internet/main5.js : Home page
+1) web1_html_internet/main1.js : <Sample> 포트개방
+2) web1_html_internet/main2.js : <Sample> URL 쿼리스트링 입력받기
+3) web1_html_internet/main3.js : <Sample> URL 쿼리스트링 사용법
+4) web1_html_internet/main4.js : <Sample> 404 Not found 
+5) web1_html_internet/main5.js : <Sample> 홈페이지
+6) web1_html_internet/main6.js : <Sample> 디렉토리 목록 불러오기/코드수정없이 파일 추가 가능 
 
 6) nodejs/readdir : directory list
