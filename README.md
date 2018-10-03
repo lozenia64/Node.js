@@ -14,9 +14,11 @@ Sample source code for Node.js
 4) syntax/loop.js : loop
 5) syntax/array.js : array
 
-# Main.js
+# Node.js
 1) web1_html_internet/main1.js : Sample make web(3000)
 2) web1_html_internet/main2.js : Sample URL querystring1
 3) web1_html_internet/main3.js : Sample URL querystring2
 4) web1_html_internet/main4.js : 404 Not found
 5) web1_html_internet/main5.js : Home page
+
+6) nodejs/readdir : directory list
