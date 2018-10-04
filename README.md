@@ -18,7 +18,7 @@ Sample source code for Node.js
 4) syntax/loop.js : 반복문
 5) syntax/array.js : 배열
 6) syntax/function1.js : 함수
-7( syntax/function2.js : 함수 매개변수/인자
+7) syntax/function2.js : 함수 매개변수/인자
 
 ---
 
@@ -30,4 +30,4 @@ Sample source code for Node.js
 5) web1_html_internet/main5.js : <Sample> 홈페이지
 6) web1_html_internet/main6.js : <Sample> 디렉토리 목록 불러오기/코드수정없이 파일 추가 가능 
 
-6) nodejs/readdir : directory list
+7) nodejs/readdir : directory list
