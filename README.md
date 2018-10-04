@@ -19,6 +19,7 @@ Sample source code for Node.js
 5) syntax/array.js : 배열
 6) syntax/function1.js : 함수
 7) syntax/function2.js : 함수 매개변수/인자
+8) syntax/function3.js : 함수 return
 
 ---
 
@@ -29,5 +30,8 @@ Sample source code for Node.js
 4) web1_html_internet/main4.js : <Sample> 404 Not found 
 5) web1_html_internet/main5.js : <Sample> 홈페이지
 6) web1_html_internet/main6.js : <Sample> 디렉토리 목록 불러오기/코드수정없이 파일 추가 가능 
+7) web1_html_internet/main7.js : <Sample> 함수사용/중복제거
 
-7) nodejs/readdir : directory list
+---
+
+1) nodejs/readdir : directory list
