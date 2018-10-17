@@ -31,7 +31,7 @@ Sample source code for Node.js
 5) web1_html_internet/main5.js : Sample 홈페이지
 6) web1_html_internet/main6.js : Sample 디렉토리 목록 불러오기/코드수정없이 파일 추가 가능 
 7) web1_html_internet/main7.js : Sample 함수사용/중복제거
-8) button/main.js : Sample button
+8) button/main.js : Sample 웹 
 
 ---
 
