@@ -1,7 +1,5 @@
 # Nodejs_SourceCode
 
----
-
 ## Data type
 1) syntax/number.js : number
 2) syntax/string.js : string
