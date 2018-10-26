@@ -1,5 +1,4 @@
 # Nodejs_SourceCode
-Sample source code for Node.js
 
 ---
 
